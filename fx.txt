@@ -1,0 +1,17 @@
+{
+	"data": [
+		{
+
+	"title": "人气棋牌点击下载",
+		"img": "http://pan.i8l.cn/data/qp.jpg",
+		"url": "http://main.24xj9.cn/?icode=10591160"
+	},
+	{
+
+	"title": "需要广告位的点击图片联系客服",
+		"img": "http://pan.i8l.cn/data/11.png",
+		"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
+	}
+	]
+
+}
