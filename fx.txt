@@ -3,8 +3,8 @@
 		{
 
 	"title": "魅秀欢迎您",
-		"img": "http://files.git.oschina.net/group1/M00/06/23/PaAvDFwtg8CAE1WCAAN1yZ_Q86I764.png?token=8029803493d3c2e24e546955ab32c74e&ts=1546487613&attname=zx.png",
-		"url": "http://wpa.qq.com/msgrd?v=3&uin=3431485281"
+		"img": "http://files.git.oschina.net/group1/M00/06/80/PaAvDFxj1eOAJvuUAAA7we60CN0586.jpg?token=e5f16af0fa781b2ce90fda41b31c8243&ts=1550046691&attname=mmexport1550046532998.jpg",
+		"url": "http://120jzxc.com/an/tian.apk"
 	},
 	{
 
