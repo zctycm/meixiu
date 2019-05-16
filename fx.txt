@@ -3,8 +3,8 @@
 		{
 
 	"title": "魅秀欢迎您",
-		"img": "http://files.git.oschina.net/group1/M00/06/80/PaAvDFxj1eOAJvuUAAA7we60CN0586.jpg?token=e5f16af0fa781b2ce90fda41b31c8243&ts=1550046691&attname=mmexport1550046532998.jpg",
-		"url": "http://120jzxc.com/an/tian.apk"
+		"img": "http://files.git.oschina.net/group1/M00/07/B5/PaAvDFzc0YuAcgoTAACRW8m6QnQ804.png?token=e74729f7cce305905e50f6e76d43a2f2&ts=1557975436&attname=QQ%E6%88%AA%E5%9B%BE20190516105543.png&disposition=inline",
+		"url": "http://live.yiqibo.art/download/index.html"
 	},
 	{
 
